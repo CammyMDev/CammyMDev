@@ -30,6 +30,22 @@
   </tr>
 </table>
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/CammyM">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=CammyM&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
