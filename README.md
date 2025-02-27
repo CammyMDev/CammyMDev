@@ -32,7 +32,7 @@
 
 # 🎵 Music I'm Listening to!:
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=camsteruk)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=camsteruk&unique={true|1|on|yes})
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
